@@ -1,0 +1,3 @@
+﻿Название,Значение,Описание
+distribute,default between center right,Распределение элементов по горизонтали
+space-around,xs s m l xl,Внутренние отступы вокруг элемента
