@@ -11,8 +11,12 @@
             "id": "96e84af07f025b44",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "QANTAR 🌖 GROUP — Open Platform for Fintech Ideas b9a4a5ff5811483789e308bd97d07c74/Action Plan ec284dbb586e484c8bf0435b60968917.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "QANTAR 🌖 GROUP — Open Platform for Fintech Ideas b9a4a5ff5811483789e308bd97d07c74/Action Plan ec284dbb586e484c8bf0435b60968917.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "QANTAR 🌖 GROUP — Open Platform for Fintech Ideas b9a4a5ff5811483789e308bd97d07c74/Action Plan ec284dbb586e484c8bf0435b60968917.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "QANTAR 🌖 GROUP — Open Platform for Fintech Ideas b9a4a5ff5811483789e308bd97d07c74/Action Plan ec284dbb586e484c8bf0435b60968917.md"
+              }
             }
           }
         ]
@@ -139,5 +147,17 @@
     }
   },
   "active": "96e84af07f025b44",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "QANTAR 🌖 GROUP — Open Platform for Fintech Ideas b9a4a5ff5811483789e308bd97d07c74/Real-time Banking App.md",
+    "ARIF 🌕 FUND — Islamic Innovative Technology Fund ca986731d705469ba72dc081f7219ca9/ARIF 🌕 FUND.md",
+    "ARIF 🌕 FUND — Islamic Innovative Technology Fund ca986731d705469ba72dc081f7219ca9/Книги и источники 883c145759984bb9a89ea9d2fe07a8b3/B1937CC7-A838-4B85-A02C-C7704A8AA956.jpeg",
+    "QANTAR 🌖 GROUP — Open Platform for Fintech Ideas b9a4a5ff5811483789e308bd97d07c74/Прокачка текущего бизнеса c0e0d5b02c0c42f3858d3fbefab5db5d.md",
+    "QANTAR 🌖 GROUP — Open Platform for Fintech Ideas b9a4a5ff5811483789e308bd97d07c74/QANTAR 🌖 GROUP — Open Platform for Fintech Ideas b9a4a5ff5811483789e308bd97d07c74.md",
+    "QANTAR 🌖 GROUP — Open Platform for Fintech Ideas b9a4a5ff5811483789e308bd97d07c74/Миссия a038c602c66a43febecc892aa3441cb9.md",
+    "QANTAR 🌖 GROUP — Open Platform for Fintech Ideas b9a4a5ff5811483789e308bd97d07c74/Post Banking b452da9531ab4c9ab682687ae6948671/Вишлист со встроенными покупками 6266b896c0ca400294b2100bc8447430.md",
+    "QANTAR 🌖 GROUP — Open Platform for Fintech Ideas b9a4a5ff5811483789e308bd97d07c74/Post Banking b452da9531ab4c9ab682687ae6948671.md",
+    "QANTAR 🌖 GROUP — Open Platform for Fintech Ideas b9a4a5ff5811483789e308bd97d07c74/Вишлист со встроенными покупками 82a0c95ebffc463493bed9f2b6b2b4f4/Пример 627e3e38fdb84e4eb0e007fc4042286b.md",
+    "QANTAR 🌖 GROUP — Open Platform for Fintech Ideas b9a4a5ff5811483789e308bd97d07c74/Вишлист со встроенными покупками 82a0c95ebffc463493bed9f2b6b2b4f4.md",
+    "QANTAR 🌖 GROUP — Open Platform for Fintech Ideas b9a4a5ff5811483789e308bd97d07c74/Вопросы 7797e311fc13461988564f6cdb8aa131.md"
+  ]
 }
